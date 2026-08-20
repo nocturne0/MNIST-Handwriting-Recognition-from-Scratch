@@ -7,6 +7,7 @@ I trained a model using gradient descent and softmax regression, which I impleme
 
 
 Accuracy: 92.37%
+
 Cross-entropy loss: 0.2666852742270529
 
 **Contents**
