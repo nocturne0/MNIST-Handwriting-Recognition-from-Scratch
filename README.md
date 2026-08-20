@@ -14,8 +14,11 @@ Cross-entropy loss: 0.2666852742270529
 
 
 main.py - Simpler example - uses the same algorithms, but in order to perform a linear regression.
+
 handwriting.py - The core program - tunes the weights and biases using gradient descent.
+
 predict.py - Assesses the models efficacy.
+
 demo.py - Demonstrates the models predictions, and visualizes them.
 
 
